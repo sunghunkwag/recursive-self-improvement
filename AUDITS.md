@@ -1,6 +1,6 @@
 # External audits of self-improving AI systems
 
-When a self-improving system also writes or selects the test that admits its changes, a gain can pass without being real. In June 2026 I (Sung Hun Kwag) filed 27 issues in 23 open-source self-improving AI projects looking for the places where that can happen. States and public responses below were checked on **2026-11-05**.
+When a self-improving system also writes or selects the test that admits its changes, a gain can pass without being real. In June 2026 I filed 27 issues in 23 open-source self-improving AI projects looking for the places where that can happen. States and public responses below were checked on **2026-11-05**.
 
 An issue is a report or a proposal on someone else's repository, not a confirmed defect. A response is listed only when it is publicly visible on the issue. Most issues are still open, and none of this is peer review. The issues were written with AI agents under my direction and filed from my account.
 

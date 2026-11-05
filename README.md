@@ -2,7 +2,7 @@
 
 **Recursive self-improvement (RSI)** is a process in which an AI system improves the process it uses to improve itself. Each accepted change becomes part of the system that makes the next change, so a successful round can make later rounds more effective.
 
-This repository indexes the open-source RSI experiments of the [Intelligence Research Project](https://sunghunkwag.github.io/) by Sung Hun Kwag, and the record of [external audits](AUDITS.md) of other self-improving AI systems. Each experiment links to reproduction commands, a stated control and its limits. The repository also sets out a checklist for deciding whether an RSI result is real. No experiment listed here claims open-ended RSI or AGI.
+This repository indexes the open-source RSI experiments of the [Intelligence Research Project](https://sunghunkwag.github.io/), and the record of [external audits](AUDITS.md) of other self-improving AI systems. Each experiment links to reproduction commands, a stated control and its limits. The repository also sets out a checklist for deciding whether an RSI result is real. No experiment listed here claims open-ended RSI or AGI.
 
 - Guide: [What recursive self-improvement is, and how to test a claim](https://sunghunkwag.github.io/research/recursive-self-improvement/) covers definitions, a sourced history from I. J. Good (1965) to 2026 systems, and FAQ.
 - Research notes: [research hub](https://sunghunkwag.github.io/research/)
